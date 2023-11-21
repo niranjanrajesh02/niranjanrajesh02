@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **niranjanrajesh02/niranjanrajesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub Repository that houses the codebases of all my projects. You can learn more about me on my [website](https://niranjanrajesh02.github.io/).
+
+- 🏫 I am currently a Undergraduate Student at Ashoka University pursuing Computer Science 💻
+- 🔭 My research interests lie in the intersection of Machine Learning 🤖 and Neuroscience 🧠
+- ✉️ You can always reach me at <niranjanrajesh02@gmail.com>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niranjanrajesh02&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
