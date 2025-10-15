@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub Repository that houses the codebases of all my projects. You can learn more about me on my [website](https://niranjanrajesh02.github.io/).
 
-- 🏫 I am currently a Undergraduate Student at Ashoka University pursuing Computer Science 💻
+- 🏫 I am currently a Graduate Student at UC San Diego Cognitive Science
 - 🔭 My research interests lie in the intersection of Machine Learning 🤖 and Neuroscience 🧠
 - ✉️ You can always reach me at <niranjanrajesh02@gmail.com>
 
